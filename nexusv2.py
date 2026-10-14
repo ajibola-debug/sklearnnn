@@ -153,7 +153,7 @@ h1, h2, h3 { font-family: 'Syne', sans-serif; font-weight: 800; }
 }
 
 .stSelectbox {
-    background: #0d0d0d;
+    background: #0d0d0d; 
 }
 
 [data-testid="stMetricValue"] {
